@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-To install dependencies: ### `npm i`
+To install dependencies: `npm i`
 
 ## Available Scripts
 
