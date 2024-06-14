@@ -1,3 +1,6 @@
+# Live demo
+https://calculator-indol-pi.vercel.app/
+
 # Getting Started with Create React App
 
 To install dependencies: `npm i`
